@@ -1,13 +1,14 @@
 body {
-    background-color: #DAD7CD;
+    background-color: #FFF8E8;
 }
 
 
 #title {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #A3B18A;
-    /* color: #344E41; */
+    background-color: #674636;
+    color: white;
     text-align: center;
+    padding: 20px;
 }
 
 .ing_img {
@@ -15,9 +16,20 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
-
+.text{
+    padding-left: 10px;
+}
 .text,
 .text_items {
-    background-color: #A3B18A;
+    background-color: #AAB396;
+    color: white;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.heading2 {
+    background-color: #AAB396;
+    padding-left: 10px;
+    color: white;
 }
