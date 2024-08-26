@@ -1,0 +1,23 @@
+body {
+    background-color: #DAD7CD;
+}
+
+
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #A3B18A;
+    /* color: #344E41; */
+    text-align: center;
+}
+
+.ing_img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.text,
+.text_items {
+    background-color: #A3B18A;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
