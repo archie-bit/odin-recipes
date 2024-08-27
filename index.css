@@ -1,0 +1,26 @@
+.recipe_name {
+    display: inline;
+}
+
+
+.img-link {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+    transition: border-radius 1.3s
+}
+
+.recipe_link {
+    margin: 10px;
+    filter:grayscale(.5);
+    transition: filter .3s;
+}
+
+.recipe_link:hover {
+    filter:none
+}
+
+.img-link:hover {
+    border-radius: 30px;
+    transition: border-radius 1.3s
+}
